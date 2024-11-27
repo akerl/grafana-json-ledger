@@ -1,0 +1,4 @@
+github.com/akerl/grafana-json v0.0.0-20241126030954-bb497cf8219e h1:ZQHDusPx3Uco8ISGidaM3FLrx4mv2yUVMoE3idZ4Cds=
+github.com/akerl/grafana-json v0.0.0-20241126030954-bb497cf8219e/go.mod h1:7WNnYKpt64F/xkV/3I31EwNFxH6VFoEjgR0go3ve3Fc=
+github.com/akerl/timber/v2 v2.0.1 h1:hY4VCOJns7KsxwxP/ifSt3Rz9GZCfKewapaimObnA2E=
+github.com/akerl/timber/v2 v2.0.1/go.mod h1:jBjRGI2CWuvbZlrZkp1JO/X51pMlbg72NFy+Vnd59oI=
